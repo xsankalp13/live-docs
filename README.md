@@ -99,3 +99,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [Liveblocks](https://liveblocks.io/) - For real-time collaboration capabilities
 - [Next.js](https://nextjs.org/) - For the robust React framework
 - [Tailwind CSS](https://tailwindcss.com/) - For utility-first CSS styling
+
